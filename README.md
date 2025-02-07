@@ -5,7 +5,8 @@ Chessformer is a puzzle game inspired by Chess. The game combines traditional Ch
 
 [![Speedrun of Chessformer](https://i.ytimg.com/an_webp/PCfPTDz9mwY/mqdefault_6s.webp?du=3000&sqp=CMT0lr0G&rs=AOn4CLA8ga0tpTnVTBBfyqVMojFAUN43VA)](https://www.youtube.com/watch?v=PCfPTDz9mwY)
 
-My algorithm can be found within ai.c while the skeleton code has been supplied by UniMelb’s 2024 Sem 2 COMP20003 teaching team.
+My algorithm can be found within ai.c while the skeleton code has been supplied by UniMelb’s 2024 Sem 2 COMP20003 teaching team. 
+Achieved 100% for this assignment.
 
 
 
